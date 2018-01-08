@@ -1,4 +1,4 @@
-# R-Work
+# Excercise 1 
 One longstanding debate in the study of international relations concerns the question of
 whether individual political leaders can make a difference. Some emphasize that leaders with
 different ideologies and personalities can significantly affect the course of a nation. Others
@@ -17,7 +17,7 @@ world from 1800. The polity score is a 21-point scale ranging from −10 (heredi
 monarchy) to 10 (consolidated democracy). The result variable is a 10-category factor
 variable describing the result of each assassination attempt.
 
-#Names and Descriptions of Variables in the Leader Assassination Data
+# Names and Descriptions of Variables in the Leader Assassination Data
 
 year = year
 
