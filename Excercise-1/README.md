@@ -1,4 +1,4 @@
-# Excercise 1 
+# Exercise 1 
 One longstanding debate in the study of international relations concerns the question of
 whether individual political leaders can make a difference. Some emphasize that leaders with
 different ideologies and personalities can significantly affect the course of a nation. Others
