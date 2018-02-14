@@ -21,3 +21,7 @@ princ_comp
 #the PC1 column contains the correcation of the variables with the ptincipla component. 
 #the h2 column contains the component communalities (the amount of variance in each variable explained by the component)
 #the u2 column contains the uniqueness of the compoment (the amount of variance not accounted for by the component)
+
+#the goal of PCA is to replace a larger set of correlated variables with a smaller set of derived variables. to do so, 
+#we need to obtain scored for each observation on the components
+head(princ_comp$scores)
